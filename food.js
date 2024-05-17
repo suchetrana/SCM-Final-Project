@@ -28,3 +28,4 @@ function getRandomFoodPosition() {
   }
   return newFoodPosition;
 }
+
