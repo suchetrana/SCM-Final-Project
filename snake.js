@@ -55,3 +55,4 @@ function addSegments() {
 
   newSegments = 0;
 }
+//code test 2
